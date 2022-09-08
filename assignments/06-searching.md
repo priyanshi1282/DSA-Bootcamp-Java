@@ -10,7 +10,7 @@
 - [Square Root - done](https://leetcode.com/problems/sqrtx/)
 - [Guess Number Higher or Lower - done](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [First Bad Version - done](https://leetcode.com/problems/first-bad-version/)
-- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Two Sum II - Input array is sorted - done](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Valid Perfect Square - done](https://leetcode.com/problems/valid-perfect-square/)
 - [Arranging Coins(Easy) - done](https://leetcode.com/problems/arranging-coins/)
 - [Find Smallest Letter Greater Than Target - done](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)

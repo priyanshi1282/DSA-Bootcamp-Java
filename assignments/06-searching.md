@@ -14,7 +14,7 @@
 - [Valid Perfect Square - done](https://leetcode.com/problems/valid-perfect-square/)
 - [Arranging Coins(Easy) - done](https://leetcode.com/problems/arranging-coins/)
 - [Find Smallest Letter Greater Than Target - done](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+- [Kth Missing Positive Number - done](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position - done](https://leetcode.com/problems/search-insert-position/)
 - [Peak Index in a Mountain Array - done](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)

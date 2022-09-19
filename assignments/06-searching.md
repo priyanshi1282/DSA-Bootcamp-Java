@@ -45,7 +45,7 @@
 - [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
-- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Median of Two Sorted Arrays - done](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
 - [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)

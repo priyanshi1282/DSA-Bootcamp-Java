@@ -29,7 +29,7 @@
 - [Find First and Last Position of Element in Sorted Array - done](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Single Element in a Sorted Array - done](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Search in Rotated Sorted Array - done](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [Search in Rotated Sorted Array II - done](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Find Minimum in Rotated Sorted Array - done](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)

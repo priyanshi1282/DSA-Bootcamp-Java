@@ -21,7 +21,7 @@
 - [Maximum Product of Three Numbers - done](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Sort Array By Parity - done](https://leetcode.com/problems/sort-array-by-parity/)
 - [Sort Array By Parity II - done](https://leetcode.com/problems/sort-array-by-parity-ii/)
-- [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+- [Largest Perimeter Triangle - done](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
 - [Height Checker](https://leetcode.com/problems/height-checker/)

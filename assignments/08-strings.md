@@ -9,7 +9,7 @@
 - [Goal Parser Interpretation - done](https://leetcode.com/problems/goal-parser-interpretation/)
 - [Count Items Matching a rule - done](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [Sorting the Sentence - done](https://leetcode.com/problems/sorting-the-sentence/)
-- [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+- [Check if two strings are equivalent - done](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [To Lower Case - done](https://leetcode.com/problems/to-lower-case/)
 - [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
